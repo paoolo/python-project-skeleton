@@ -1,4 +1,4 @@
-# python-project-skeleton
+# wunderbear
 
 ## Requirements
 
@@ -14,13 +14,13 @@
 
 Simply. Add to `requirements.txt`
 
-    python-project-skeleton
+    wunderbear
 
 You can install it by python-installer
 
-    pip install python-project-skeleton
+    pip install wunderbear
 
-Package available at https://pypi.python.org/pypi/python-project-skeleton
+Package available at https://pypi.python.org/pypi/wunderbear
 
 ## How to contribute
 

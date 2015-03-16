@@ -1,4 +1,4 @@
-from python_project_skeleton.tools import config
+from wunderbear.tools import config
 
 config.add_config_ini('main.ini')
 
