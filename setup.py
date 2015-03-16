@@ -11,26 +11,26 @@ with open('requirements.txt') as f:
     required = f.read().splitlines()
 
 setup(
-    name='python_project_skeleton',
+    name='wunderbear',
     packages=[
-        'python_project_skeleton',
-        'python_project_skeleton.tools',
-        'python_project_skeleton.tests'
+        'wunderbear',
+        'wunderbear.tools',
+        'wunderbear.tests'
     ],
     package_dir={
-        'python_project_skeleton': 'src/python_project_skeleton',
-        'python_project_skeleton.tools': 'src/python_project_skeleton/tools',
-        'python_project_skeleton.tests': 'src/python_project_skeleton/tests'
+        'wunderbear': 'src/wunderbear',
+        'wunderbear.tools': 'src/wunderbear/tools',
+        'wunderbear.tests': 'src/wunderbear/tests'
     },
     package_data={'': [
-        'src/python_project_skeleton/main.ini'
+        'src/wunderbear/main.ini'
     ]},
     data_files=[
         ('', [
-            'src/python_project_skeleton/main.ini'
+            'src/wunderbear/main.ini'
         ]),
     ],
-    test_suite="python_project_skeleton.tests",
+    test_suite="wunderbear.tests",
     include_package_data=True,
     install_requires=required,
     version='1.0',
