@@ -14,13 +14,11 @@
 
 Simply. Add to `requirements.txt`
 
-    python-project-skeleton
+    -e git+git://github.com/your-name/python-project-skeleton#egg=python-project-skeleton
 
 You can install it by python-installer
 
-    pip install python-project-skeleton
-
-Package available at https://pypi.python.org/pypi/python-project-skeleton
+    pip install -e git+git://github.com/your-name/python-project-skeleton#egg=python-project-skeleton
 
 ## How to contribute
 
