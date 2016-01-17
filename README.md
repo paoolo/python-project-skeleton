@@ -1,5 +1,9 @@
 # python-project-skeleton
 
+[![Code Climate](https://codeclimate.com/github/SuderPawel/python-project-skeleton/badges/gpa.svg)](https://codeclimate.com/github/SuderPawel/python-project-skeleton)
+[![Test Coverage](https://codeclimate.com/github/SuderPawel/python-project-skeleton/badges/coverage.svg)](https://codeclimate.com/github/SuderPawel/python-project-skeleton/coverage)
+[![Issue Count](https://codeclimate.com/github/SuderPawel/python-project-skeleton/badges/issue_count.svg)](https://codeclimate.com/github/SuderPawel/python-project-skeleton)
+
 ## Requirements
 
 * `python` with `pip` and `virtualenv`
