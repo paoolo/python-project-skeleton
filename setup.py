@@ -33,7 +33,7 @@ setup(
     test_suite="python_project_skeleton.tests",
     include_package_data=True,
     install_requires=required,
-    version='1.2',
+    version='1.3',
     description='python project skeleton',
     author=u'Paweł Suder',
     author_email='pawel@suder.info',
