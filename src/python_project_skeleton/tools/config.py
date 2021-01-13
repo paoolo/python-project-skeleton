@@ -1,7 +1,7 @@
 import ConfigParser
 import sys
 
-__author__ = 'paoolo'
+__author__ = 'pasuder'
 
 
 class Config(object):

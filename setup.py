@@ -4,7 +4,7 @@
 try:
     from setuptools import setup
 except ImportError:
-    print 'No setuptools installed, use distutils'
+    print('No setuptools installed, use distutils')
     from distutils.core import setup
 
 with open('requirements.txt') as f:
@@ -37,8 +37,8 @@ setup(
     description='python project skeleton',
     author=u'Paweł Suder',
     author_email='pawel@suder.info',
-    url='http://github.com/paoolo/python-project-skeleton',
-    download_url='http://github.com/paoolo/python-project-skeleton',
+    url='http://github.com/pasuder/python-project-skeleton',
+    download_url='http://github.com/pasuder/python-project-skeleton',
     keywords=[
         'skeleton'
     ],
